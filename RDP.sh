@@ -1,5 +1,4 @@
 #! /bin/bash
-printf 'YT Channel - https://youtu.be/VeO22kIvZOQ \n'
 printf "RDP installing... " >&2
 {
 sudo useradd -m ALOK
